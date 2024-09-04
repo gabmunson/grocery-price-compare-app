@@ -15,7 +15,7 @@
 			<svelte:fragment slot="trail">
 				<a
 					class="btn btn-sm variant-ghost-surface"
-					href="www.linkedin.com/in/gabrielle-munson"
+					href="https://www.linkedin.com/in/gabrielle-munson"
 					target="_blank"
 					rel="noreferrer"
 				>
